@@ -43,6 +43,8 @@ Below are the images illustrating the usage of the Resume Builder:
 9. ![Pasted image 3](images/Pasted_image_9.png)
 10. ![Pasted image 3](images/Pasted_image_10.png)
 11. ![Pasted image 3](images/Pasted_image_11.png)
+12. ![Pasted image 3](images/Pasted_image_12.png)
+13. ![Pasted image 3](images/Pasted_image_13.png)
    (and so on...)
 
 ## Conclusion
